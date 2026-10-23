@@ -1,0 +1,6 @@
+Muon spectra from daemonflux
+Quantity : muflux  (location = generic)
+Columns  : E_GeV = total muon energy, p_GeVc = total momentum,
+           zen_XXdeg = dPhi/dE at that zenith angle
+Units    : dPhi/dE in cm^-2 s^-1 sr^-1 GeV^-1 (raw, NOT multiplied by E^3)
+Errors   : 1-sigma, same units, in muon_dphidE_errors.csv

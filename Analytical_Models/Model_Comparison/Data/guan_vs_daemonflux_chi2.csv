@@ -1,0 +1,12 @@
+energy_range,experiment,n_points,Guan_chi2_per_pt,daemonflux_chi2_per_pt,PARMA_chi2_per_pt,Guan_mean_data_over_model,daemonflux_mean_data_over_model,PARMA_mean_data_over_model,better
+all data,BESS-TeV,65,10.2121,20.3059,21.6848,0.937996,0.940495,0.901888,Guan
+all data,L3+C,14,4.52414,3.99113,nan,0.949091,1.01872,nan,daemonflux
+all data,LVD,11,0.297414,1.02993,nan,0.978502,0.923444,nan,Guan
+all data,ALL,90,8.11549,15.4121,nan,0.944582,0.95013,nan,Guan
+5 GeV - 10 TeV,BESS-TeV,36,14.4804,0.685819,28.4793,0.91786,0.995719,0.879784,daemonflux
+5 GeV - 10 TeV,L3+C,14,4.52414,3.99113,nan,0.949091,1.01872,nan,daemonflux
+5 GeV - 10 TeV,LVD,6,0.308188,1.32531,nan,0.977011,0.903796,nan,Guan
+5 GeV - 10 TeV,ALL,56,10.4729,1.58066,nan,0.931784,0.991081,nan,daemonflux
+PARMA range (0.61 - 687 GeV),BESS-TeV,65,10.2121,20.3059,21.6848,0.937996,0.940495,0.901888,Guan
+PARMA range (0.61 - 687 GeV),L3+C,13,4.61079,3.59999,12.5342,0.95581,1.03803,0.921925,daemonflux
+PARMA range (0.61 - 687 GeV),ALL,78,9.27852,17.5215,20.1597,0.940942,0.95609,0.905197,Guan

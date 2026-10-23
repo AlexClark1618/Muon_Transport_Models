@@ -1,0 +1,6 @@
+model,n_points,total_chi2,chi2_per_pt,BESS-TeV_chi2_per_pt,L3+C_chi2_per_pt,LVD_chi2_per_pt
+Gaisser,90,2.58476e+08,2.87196e+06,3.97654e+06,61.6626,0.299874
+Guan (modified Gaisser),90,730.394,8.11549,10.2121,4.52414,0.297414
+Gaisser/Tang,90,3502.81,38.9202,49.6371,19.5074,0.299874
+Bugaev/Reyna,90,5066.89,56.2988,56.1909,39.8072,77.9262
+Smith & Duller/Chatzidakis,90,1230.4,13.6711,17.3927,5.11269,2.57299
